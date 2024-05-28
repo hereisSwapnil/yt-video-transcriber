@@ -2,3 +2,4 @@ protobuf
 python-dotenv==1.0.1
 streamlit==1.30.0
 youtube_transcript_api==0.6.2
+google-generativeai
